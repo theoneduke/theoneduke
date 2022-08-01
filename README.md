@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theoneduke
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Programming R
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/duke-duke-839ba7201/
 
