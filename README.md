@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theoneduke
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/duke-duke-839ba7201/
